@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../HTMLTUTORIAL"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kanak.html"
+	}
+}
